@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,20 +6,13 @@
     <title>Document</title>
 </head>
 <body>
-   <h1> Cities </h1> 
-   <ul> 
-<li> London  </li>
-<li> Paris  </li>
-<li> Berlin  </li>
-<li> New York  </li>
-
-
-
-
-
-   </ul>
-
-
-
+    
+    <h1> Cities </h1> 
+    <ul> 
+ <li> Artvin  </li>
+ <li> Rize  </li>
+ <li> Trabzon  </li>
+ <li> Samsun  </li>
+    
 </body>
 </html>
